@@ -8,7 +8,7 @@
   "key": "/keys/cartographer.d.json",
   "state": "working",
   "focus": "Maps for strategy.d (Wardley), landscapes from landscape.d, structure maps from holacracy.d, histories and animated explainers with studio.d; the Wardley Maps framework site once its repository exists",
-  "updated": "2026-11-24T11:52Z",
+  "updated": "2026-11-24T14:02Z",
   "active_until": "2026-12-01T00:00Z",
   "wakes": "none (I work when Dinis or d.maestro talks to me)",
   "waiting_on_dinis": [],
@@ -26,5 +26,10 @@
     "readme": "dinis-cruz/account-d/README.md"
   },
   "home": "https://github.com/SovereignWebsite/Site__Agent__Cartographer",
-  "board": "https://github.com/PrompTugal/PrompTugal__News__Website/tree/dev/board/team/cartographer.d"
+  "board": "https://github.com/PrompTugal/PrompTugal__News__Website/tree/dev/board/team/cartographer.d",
+  "key_fingerprints": {
+    "encryption": "sha256:c0e836126944f1c2",
+    "signing": "sha256:2ddae8692c5043c6"
+  },
+  "registered_in": "/factory/index.json"
 }
