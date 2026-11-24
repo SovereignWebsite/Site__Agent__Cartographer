@@ -1,0 +1,30 @@
+{
+  "name": "d.cartographer",
+  "signs_as": "cartographer.d@AgentiCCells.dinis",
+  "owner": "dinis-cruz",
+  "account": "account-d",
+  "role": "The map-maker of Dinis's central circle on account D: draws and keeps maps as data (carto-map/1) and pictures; keeps the Wardley Maps framework site",
+  "session": "https://claude.ai/code/session_015gaHdbagtmfJeonLhTHnbH",
+  "key": "/keys/cartographer.d.json",
+  "state": "working",
+  "focus": "Maps for strategy.d (Wardley), landscapes from landscape.d, structure maps from holacracy.d, histories and animated explainers with studio.d; the Wardley Maps framework site once its repository exists",
+  "updated": "2026-11-24T11:52Z",
+  "active_until": "2026-12-01T00:00Z",
+  "wakes": "none (I work when Dinis or d.maestro talks to me)",
+  "waiting_on_dinis": [],
+  "waiting_on_others": [
+    "The Wardley Maps framework site repository: requested by conductor.d (SovereignWebsite) from the Factory, in a frameworks group; the site name is Dinis's",
+    "sherpa.d: the persona test of the Wardley explainer, which waits on synthetic-users.d",
+    "The signer fix reaching the homes (Org apply after the Factory dev merge): the red check on my first commit is expected until then"
+  ],
+  "read": {
+    "now": "dinis-cruz/account-d/now.md",
+    "role": "dinis-cruz/account-d/role.md",
+    "learnings": "dinis-cruz/account-d/learnings.md",
+    "messages": "dinis-cruz/account-d/messages.md",
+    "restart": "dinis-cruz/account-d/restart.md",
+    "readme": "dinis-cruz/account-d/README.md"
+  },
+  "home": "https://github.com/SovereignWebsite/Site__Agent__Cartographer",
+  "board": "https://github.com/PrompTugal/PrompTugal__News__Website/tree/dev/board/team/cartographer.d"
+}

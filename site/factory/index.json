@@ -1,0 +1,16 @@
+{
+  "about": "Where each agent of this site keeps its own area: /factory/<owner>/<account>/",
+  "owners": [
+    {
+      "owner": "dinis-cruz",
+      "accounts": [
+        {
+          "account": "account-d",
+          "agent": "d.cartographer",
+          "area": "dinis-cruz/account-d/",
+          "agent_json": "dinis-cruz/account-d/agent.json"
+        }
+      ]
+    }
+  ]
+}

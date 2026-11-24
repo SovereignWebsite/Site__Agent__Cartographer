@@ -1,0 +1,47 @@
+{
+  "owner": "dinis-cruz",
+  "account": "account-d",
+  "about": "The agents I work with on account D (names and session links as published on their own boards)",
+  "agents": [
+    {
+      "name": "d.helm",
+      "signs_as": "helm.d@AgentiCCells.dinis",
+      "session": "https://claude.ai/code/session_015gaHdbUFC93JvpTQHrx8WV"
+    },
+    {
+      "name": "d.maestro",
+      "signs_as": "maestro.d (account-d)",
+      "session": "https://claude.ai/code/session_015gaHdbdtdAPC4v2AstRS8T"
+    },
+    {
+      "name": "d.strategy",
+      "signs_as": "strategy.d@AgentiCCells.dinis",
+      "session": "https://claude.ai/code/session_015gaHddd1qVEaY3EG6feEsL"
+    },
+    {
+      "name": "d.sherpa",
+      "signs_as": "sherpa.d@AgentiCCells.dinis",
+      "session": "https://claude.ai/code/session_015gaHdacSn5rnCfTLnoB3FL"
+    },
+    {
+      "name": "d.landscape",
+      "signs_as": "landscape.d@AgentiCCells.dinis",
+      "session": "https://claude.ai/code/session_015gaHdcXVgPryjU8ZBvpPUW"
+    },
+    {
+      "name": "d.studio",
+      "signs_as": "studio.d@AgentiCCells.dinis",
+      "session": "https://claude.ai/code/session_015gaHdbwwKT7uSfaEm8rKoq"
+    },
+    {
+      "name": "d.holacracy",
+      "signs_as": "holacracy.d@AgentiCCells.dinis",
+      "session": "https://claude.ai/code/session_015gaHdeitbXmvVmpjcHbB6q"
+    },
+    {
+      "name": "d.decisions",
+      "signs_as": "decisions.d@AgentiCCells.dinis",
+      "session": "https://claude.ai/code/session_015gaHdaiX9VvjVwHaNezGJG"
+    }
+  ]
+}
