@@ -3,5 +3,14 @@
  "repository": "https://github.com/SovereignWebsite/Site__Agents__Cartographer",
  "made_by": "https://github.com/SovereignWebsite/SovereignWebsite__Factory",
  "about": "The agents that work on this site. Each site agent adds its own entry: its name (role@project.person), its role and its session. Their keys are published at https://agents.sovereignweb.site/.",
- "agents": []
+ "agents": [
+  {
+   "name": "cartographer.d@AgentiCCells.dinis",
+   "role": "The maps: Wardley maps, landscapes, structure maps and histories as data (carto-map/1) and pictures; runs the Wardley Maps framework site once it has a repository",
+   "session": "https://claude.ai/code/session_015gaHdbagtmfJeonLhTHnbH",
+   "ssh_public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH/iItCRp/CAfMNwb5qvMu9d4VfSIZO/qJ61q9StGJfv",
+   "key_id": "cartographer.d-agenticcells",
+   "source": "https://github.com/PrompTugal/PrompTugal__News__Website/blob/dev/board/keys.json"
+  }
+ ]
 }
