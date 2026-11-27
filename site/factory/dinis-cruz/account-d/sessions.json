@@ -9,9 +9,10 @@
       "session": "https://claude.ai/code/session_015gaHdbUFC93JvpTQHrx8WV"
     },
     {
-      "name": "d.maestro",
-      "signs_as": "maestro.d (account-d)",
-      "session": "https://claude.ai/code/session_015gaHdbdtdAPC4v2AstRS8T"
+      "name": "cl-4.maestro",
+      "signs_as": "maestro (account-d), since 25 Nov 23:34 UTC",
+      "session": "https://claude.ai/code/session_015gaHdaUZWyhvN7nQ4fEmMo",
+      "note": "The old d.maestro session is archived."
     },
     {
       "name": "d.strategy",

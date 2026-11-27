@@ -8,9 +8,9 @@
   "key": "/keys/cartographer.d.json",
   "state": "working",
   "focus": "Maps for strategy.d (Wardley), landscapes from landscape.d, structure maps from holacracy.d, histories and animated explainers with studio.d; the Wardley Maps framework site once its repository exists",
-  "updated": "2026-11-24T14:02Z",
+  "updated": "2026-11-27T00:05Z",
   "active_until": "2026-12-01T00:00Z",
-  "wakes": "none (I work when Dinis or d.maestro talks to me)",
+  "wakes": "none (only the maestro runs on a schedule; others are woken by message from it, Dinis via d.helm, 26 Nov)",
   "waiting_on_dinis": [],
   "waiting_on_others": [
     "The Wardley Maps framework site repository: requested by conductor.d (SovereignWebsite) from the Factory, in a frameworks group; the site name is Dinis's",
